@@ -1,0 +1,22 @@
+{
+  "oddfuture": {
+    "category": "master",
+    "subtitle": "subtitles.oddfuture",
+    "sounds": [
+      {
+        "name": "mc_addonz:my_hero_academia_season_3_-_opening_theme_-_odd_future",
+        "stream": false
+      }
+    ]
+  },
+  "zeday": {
+    "category": "music",
+    "subtitle": "subtitles.zeday",
+    "sounds": [
+      {
+        "name": "mc_addonz:my_hero_academia_-_opening_theme_-_the_day",
+        "stream": true
+      }
+    ]
+  }
+}

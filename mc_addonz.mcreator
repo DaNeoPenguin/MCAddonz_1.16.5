@@ -1,0 +1,54 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "oddfuture",
+      "files": [
+        "my_hero_academia_season_3_-_opening_theme_-_odd_future"
+      ],
+      "category": "master",
+      "subtitle": "oddfuture"
+    },
+    {
+      "name": "zeday",
+      "files": [
+        "my_hero_academia_-_opening_theme_-_the_day"
+      ],
+      "category": "music",
+      "subtitle": "zedazy"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.zeday": "Disque Mudical de The Day"
+    },
+    "fr_fr": {
+      "subtitles.zeday": "zedazy"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mc_addonz",
+    "modName": "MinecraftAddonz",
+    "version": "1.0.0",
+    "author": "titoudelaplage",
+    "websiteURL": "https://github.com/titoudelaplage/mcaddonz",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": false,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Fait par titoudelaplage",
+    "modElementsPackage": "fr.titoudelaplage.mcaddonz",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

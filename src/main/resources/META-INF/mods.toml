@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="mc_addonz"
+version="1.0.0"
+displayName="MinecraftAddonz"
+credits="Fait par titoudelaplage"
+displayURL="https://github.com/titoudelaplage/mcaddonz"
+authors="titoudelaplage"
+
+[[dependencies.mc_addonz]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mc_addonz]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.1.0]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
