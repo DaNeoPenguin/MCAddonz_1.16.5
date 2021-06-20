@@ -1,6 +1,25 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Plomb",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plomb"
+    },
+    {
+      "name": "CarburMass",
+      "type": "fuel",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carbur_mass"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [
     {
@@ -22,9 +41,11 @@
   ],
   "language_map": {
     "en_us": {
+      "item.mc_addonz.plomb": "Plomb",
       "subtitles.zeday": "Disque Mudical de The Day"
     },
     "fr_fr": {
+      "item.mc_addonz.plomb": "Plomb",
       "subtitles.zeday": "zedazy"
     }
   },
